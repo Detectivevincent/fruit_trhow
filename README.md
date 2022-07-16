@@ -11,3 +11,5 @@ so i won't include code with it in this repo.
 So for improved version, we needed screen to control timing for three individual piston.
 ![190a21a0-3523-4138-9d1b-e913f2b9aa78](https://user-images.githubusercontent.com/99828334/179371875-9ceef8d7-7802-476a-a584-f3158ac84847.jpeg)
 (LEDs were used for debuging)
+
+Millis is used for timings. 
